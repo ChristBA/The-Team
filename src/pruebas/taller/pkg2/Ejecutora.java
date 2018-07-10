@@ -8,7 +8,7 @@ package pruebas.taller.pkg2;
 public class Ejecutora {
 
     public static void main(String[] args) {
-        //Ventana v = new Ventana();
+        Ventana v2 = new Ventana();
         Ventana2 v = new Ventana2();
     }
 }
